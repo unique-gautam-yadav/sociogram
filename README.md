@@ -1,5 +1,3 @@
-# insta_clone
-
 A new Flutter project.
 
 ## Getting Started
@@ -14,4 +12,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# sociogram
+#sociogram
+
+
+
+## steps to implement or project structure 
+    1- design is in features folder and have only one feature home
+    2- in screens folder and home_screen file the screen logic is done
+    3- theme login is in utils folder
+    
